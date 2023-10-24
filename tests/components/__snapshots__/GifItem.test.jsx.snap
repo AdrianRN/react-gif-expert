@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Pruebas en <GifItem /> should match with snapshot 1`] = `
+exports[`Tests in <EKISDEEE /> should match with snapshot 1`] = `
 <div>
   <div
     class="card"
@@ -17,6 +17,22 @@ exports[`Pruebas en <GifItem /> should match with snapshot 1`] = `
 `;
 
 exports[`Tests in <GifItem /> should match with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Saitama"
+      src="https://one-punch.com/saitama.jpg"
+    />
+    <p>
+      Saitama
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Tests in <GifItem /> should match with snapshot 2`] = `
 <div>
   <div
     class="card"
